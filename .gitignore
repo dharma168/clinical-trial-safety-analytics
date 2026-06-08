@@ -1,0 +1,19 @@
+# Raw clinical data (VERY IMPORTANT - do not push to GitHub)
+raw_data/
+*.sas7bdat
+*.sas7bdat.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Large data files (optional safety)
+*.csv
+*.xlsx
+*.parquet
