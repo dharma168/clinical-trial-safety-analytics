@@ -77,7 +77,7 @@ To simulate real-world clinical trial data workflows by:
 ---
 
 ## 📊 Dashboard Preview
-![Dasboard Preview](<visuals/Clinical Trial Safety & Risk Analytics Dashboard.png>)
+![Dasboard Preview](visuals/clinical_trial_safety_risk_analytics.png)
 
 - Clinical Overview Dashboard
 - Risk Distribution Analysis
